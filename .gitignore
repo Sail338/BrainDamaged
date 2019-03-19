@@ -1,0 +1,8 @@
+asst*/bin/*
+asst*/bin/*
+asst*/include/*
+asst*/lib/*
+asst*/__pycache__
+asst*/.vscode
+*.cfg
+.DS_STORE
